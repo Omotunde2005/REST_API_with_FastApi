@@ -17,4 +17,15 @@ authenticate yourself by providing your api key, which you got during registrati
 
 <p><b>DELETE request</b>: This enables you to delete a user by providing the user's api_key.</p>
 
-'''python uvicorn main:app --reload'''
+<br>
+<h5>Clone the repository by running this in the terminal</h5>
+'''
+git clone https://github.com/Omotunde2005/REST_API_with_FastApi.git
+'''
+<br>
+<br>
+<h5>Run the app by running</h5> 
+
+'''
+python uvicorn main:app
+'''
