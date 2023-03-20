@@ -19,13 +19,15 @@ authenticate yourself by providing your api key, which you got during registrati
 
 <br>
 <h5>Clone the repository by running this in the terminal</h5>
-'''
-git clone https://github.com/Omotunde2005/REST_API_with_FastApi.git
-'''
-<br>
-<br>
-<h5>Run the app by running</h5> 
 
-'''
+```
+git clone https://github.com/Omotunde2005/REST_API_with_FastApi.git
+```
+
+<br>
+<br>
+<h5>Run the app in the terminal via</h5> 
+
+```
 python uvicorn main:app
-'''
+```
