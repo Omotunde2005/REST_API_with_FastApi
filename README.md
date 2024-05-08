@@ -1,4 +1,4 @@
-<h1>A REST API BUILT WITH FLASK</h1>
+<h1>A REST API BUILT WITH FASTAPI</h1>
 
 <p>This is a REST Api that accepts GET, PUT, DELETE AND
 POST requests. It is built on top of a database containing different
